@@ -3,7 +3,7 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&show_icons=true&theme=radical&hide=javascript,html)
 
 
 
