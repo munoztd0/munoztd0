@@ -2,6 +2,13 @@
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&layout=compact&theme=dracula)
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=munoztd0&repo=DbVieweR&theme=dracula)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CCS-Lab&repo=hBayesDM&theme=dracula)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=munoztd0&repo=shiny-usage-monitor&theme=dracula)
 <!--
 **munoztd0/munoztd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
