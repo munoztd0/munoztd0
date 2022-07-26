@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=munoztd0&show_icons=true&theme=radical?hide=css,html,dockerfile)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&layout=compact&theme=dracula)
