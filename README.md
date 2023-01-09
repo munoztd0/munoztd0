@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
 
 S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)
 
