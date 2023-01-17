@@ -5,7 +5,7 @@
 S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munoztd0&show_icons=true&theme=radical&hide=MATLAB,javascript,html,tex,css,scss,less)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munoztd0&show_icons=true&theme=radical&hide=MATLAB,html,tex,css,scss,less)
 
 
 ![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=munoztd0&repo=DBMS&theme=dracula)
