@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+#### My name is Tord, AutomaTord ! 
+#### I'm a Data Scientist/ R Developer looking for a cool open-source project to work on !
+
+<a href="https://www.buymeacoffee.com/munoztd0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ![David's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=munoztd0&show_icons=true&theme=radical)
 
