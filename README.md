@@ -13,7 +13,7 @@ __Social__
 
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/tord_munoz)](https://twitter.com/tord_munoz)
 [![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/david-munoz-tord-409639150/)](https://www.linkedin.com/in/david-munoz-tord-409639150/)
-[Website ])
+
 
 
 __Tech__
