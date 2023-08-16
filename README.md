@@ -40,7 +40,8 @@ S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)
 
 <br/>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munoztd0&show_icons=true&theme=radical&hide=MATLAB,javascript,html,tex,css,scss,less)
+![68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d756e6f7a7464302673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964653d4d41544c4142](https://github.com/munoztd0/munoztd0/assets/43644805/453f6f2a-34a2-4760-bd2c-a983bb86167b)
+
 
 <br/>
 
