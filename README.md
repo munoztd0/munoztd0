@@ -2,10 +2,10 @@
 #### My name is Tord, AutomaTord ! 
 #### I'm a Data Scientist/ R Developer looking for a cool open-source project to work on !
 
-- 🖥️  I'm made my own funny [portfolio](https://david-munoztord.com/)
+- 🖥️  I'm made my own quirky [portfolio](https://david-munoztord.com/)
 - 📹  I'm on [YouTube](https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw)
 - 📝  I have a mildly interesting [blog](https://we-data.netlify.app/)
-- ✨  I have a dull [shiny server](http://18.156.175.87:3838/)
+- ✨  I have a cool [podcast]([http://18.156.175.87:3838/](https://open.spotify.com/show/33gBOnibekYpDX2XjFTMDj))
 - 💡  I'm part of the [We Data Group](https://wedata.ch/)
 - 💖  I'm on [Github Sponsor](https://github.com/sponsors/munoztd0)
 
