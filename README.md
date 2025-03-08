@@ -5,7 +5,7 @@
 - 🖥️  I'm made my own quirky [portfolio](https://david-munoztord.com/)
 - 📹  I'm on [YouTube](https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw)
 - 📝  I have a mildly interesting [blog](https://we-data.netlify.app/)
-- ✨  I have a cool [podcast]([http://18.156.175.87:3838/](https://open.spotify.com/show/33gBOnibekYpDX2XjFTMDj))
+- ✨  I have a cool [podcast](https://open.spotify.com/show/33gBOnibekYpDX2XjFTMDj)
 - 💡  I'm part of the [We Data Group](https://wedata.ch/)
 - 💖  I'm on [Github Sponsor](https://github.com/sponsors/munoztd0)
 
