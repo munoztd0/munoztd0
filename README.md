@@ -14,8 +14,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=munoztd0&theme=dark&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,tex,javascript,css,scss,matlab,less,lua,php
-)
+<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,tex,javascript,css,scss,matlab,less,lua,php
+) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=munoztd0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
