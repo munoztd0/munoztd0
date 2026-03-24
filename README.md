@@ -6,11 +6,15 @@
 
 - 🖥️  I'm made my own quirky [portfolio](https://david-munoztord.com/)
 - 📹  I'm on [YouTube](https://www.youtube.com/channel/UCGktdbvbc_H-JEkYYTvwRVw)
-- 📝  I have a mildly interesting [blog](https://we-data.netlify.app/)
+- 📝  I have a mildly interesting [blog](https://wedata.ch/blog)
 - ✨  I have a cool [podcast](https://open.spotify.com/show/33gBOnibekYpDX2XjFTMDj)
 - 💡  I'm part of [We Data](https://wedata.ch/)
 - 💖  I'm on [Github Sponsor](https://github.com/sponsors/munoztd0)
-  
+
+# Teaching / Workshops / Presentations
+
+[Here you can find it all](https://munoztd0.github.io/workshops/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=munoztd0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=munoztd0&theme=dark&hide_border=false)<br/>
@@ -30,8 +34,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-munoz-tord-409639150) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13158839) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tord_munoz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCGktdbvbc_H-JEkYYTvwRVw) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- ## Profile views :detective: <br>
